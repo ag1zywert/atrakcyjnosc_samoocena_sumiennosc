@@ -1,5 +1,6 @@
 library(tidyverse)
 str(dane_wlasciwe)
+read_csv(dane_wlasciwe)
 
 warunki <- group_by(dane_wlasciwe, Warunek)
 summarise (warunki, srednia = mean(Ocena), odchylenie = mad(Ocena))
