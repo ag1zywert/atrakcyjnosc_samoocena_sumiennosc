@@ -85,6 +85,7 @@ d %>%
 # TO JEST WAŻNE
 # ZAPAMIETAJ
 # TO WYCHODZI
+# Ja: Czy nie trzeba sprawdzić jak się rozkłada u tych poniżej 30 status związku??
 d_young <- d %>% filter(age < 30)
 attract_age_anova <- ezANOVA(data = d_young, 
                              wid = id, 
