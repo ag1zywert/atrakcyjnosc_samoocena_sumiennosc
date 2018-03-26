@@ -1,11 +1,11 @@
 library(tidyverse)
-str(dane_wlasciwe)
-read_csv(dane_wlasciwe)
+d <- read_delim("dane_wlasciwe.csv", 
+                            ";", escape_double = FALSE, trim_ws = TRUE)
 
-warunki <- group_by(dane_wlasciwe, Warunek)
-summarise (warunki, srednia = mean(Ocena), odchylenie = mad(Ocena))
+warunki <- group_by(d, Warunek)
+summarise (warunki, srednia = mean(Ocena), odchylenie = mad(Ocena), count = n())
 
-status_zwiazku <- group_by(dane_wlasciwe, status.zwiazku)
+status_zwiazku <- group_by(d, `status zwiazku`)
 summarise (status_zwiazku, srednia = mean(Ocena), odchylenie = mad(Ocena))
 
 ggplot(data = dane_wlasciwe) +
