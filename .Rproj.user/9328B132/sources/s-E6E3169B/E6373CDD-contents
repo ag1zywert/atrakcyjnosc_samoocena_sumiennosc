@@ -82,6 +82,9 @@ d %>%
   geom_point(aes(x = age, y = attract, color = reason), 
              position = position_jitter())
 
+# TO JEST WAŻNE
+# ZAPAMIETAJ
+# TO WYCHODZI
 d_young <- d %>% filter(age < 30)
 attract_age_anova <- ezANOVA(data = d_young, 
                              wid = id, 
