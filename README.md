@@ -1,7 +1,4 @@
-# sumiennosc_a_atrakcyjnosc
-Badanie nad relacją między sumiennością a  postrzeganą atrakcyjnością
+DOBRA, ogólnie to badanie jest już tylko o atrakcyjności i w sumie trochę o samoocenie.
+Teraz już będę pisać tylko **poważne** readme. 
 
-
-#### W tym repo są moje nieudolne obliczenia i trzymam też tu dane po prostu, bo w chmurze nie mam miejsca już nigdzie
-
-Tak ogólnie to to badanie jest trochę _durne_ chciałabym zająć się czymś sensownym, bo jak będę miała takie głupie pomysły to nigdy nie zostanę riserdżerem i nie daj Boże będę musiała zostać jakimś diagnostą albo **o zgrozo** terapuetą. 
+### obliczenia i inne rzeczy do moich(?) _nie aż tak durnych_ badań
