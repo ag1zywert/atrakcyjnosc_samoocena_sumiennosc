@@ -1,0 +1,42 @@
+---
+title: "Positive/neutral"
+author: "Agata Zywert"
+date: "24 kwietnia 2018"
+output: html_document
+---
+
+
+#### PERSONALITY PROFILE (POSITIVE)
+
+Participant number: 47 
+
+**Time and Place of Evaluation:**  Fall, 2014
+**Methods used:**  Beck Personality Inventory, Rosenberg Self-Assessment, Sensitization Scale, Eysenck Trait Inventory, and the Relationship Orientation Assessment
+Reason for referral: Research purposes.
+
+##### Evaluation:
+
+You are self-sufficient and do not have a strong need for other people to like you and admire you. You wisely tend to accept yourself as you are rather than be critical of yourself. You have an exceptional amount of unused energy, which you can easily learn to turn to your advantage.  While you may feel you have some personality weaknesses, your personality is very strong. Your sexual adjustment has presented far less than the usual amount of problems for you.  
+J
+
+While you may feel worrisome and insecure, you have a great deal of discipline and control on the inside. You seldom have serious doubts as to whether you have made the right decisions or done the right thing. You may prefer a certain amount of change and variety but when necessary can work effectively and creatively even when hemmed in by restrictions and limitations. 
+
+You pride yourself on being an independent thinker and are open to new opinions and viewpoints. You are more capable than most of being quite frank and revealing yourself to others. Although you are generally extroverted, affable, and sociable; you also have the capacity to enjoy and fully utilize the time you have to yourself. Given your personality traits, there is a good chance that even your most ambitious aspirations are realistic. 
+
+
+ 
+#### PERSONALITY PROFILE (NEUTRAL)
+
+* Participant number: 47 
+
+**Time and Place of Evaluation**:  Fall, 2014
+**Methods used** :  Beck Personality Inventory, Rosenberg Self-Assessment, Sensitization Scale, Eysenck Trait Inventory, and the Relationship Orientation Assessment
+Reason for referral: Research purposes.
+
+##### Evaluation:
+
+You need other people to like you and to admire you. You have some tendency to be too critical of yourself when you should accept yourself as you are. Much of your energy is not used to full advantage. You have personality weaknesses; however, you are able to compensate for them most of the time. Your sexual adjustment has presented few problems for you.
+
+Often you have difficulty disciplining yourself, hindering you from getting things done. You are usually confident in your abilities but you are often concerned about realizing your potential. At times you doubt whether you have made the right decision or done the right thing. You prefer a certain amount of change and variety but sometimes allow yourself to be hemmed in by restrictions and limitations. 
+
+You try to be an independent thinker but often fail to do so, accepting others’ opinions without satisfactory proof. You have found it unwise to be too frank in revealing yourself to others. At times you are extroverted, affable, sociable, while at other times you are introverted, wary and reserved. Some of your aspirations are a bit unrealistic, but others are attainable. 
