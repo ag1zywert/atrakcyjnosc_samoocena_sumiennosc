@@ -5,6 +5,7 @@ date: "24 kwietnia 2018"
 output: html_document
 ---
 
+
 ##### **POZYTYWNY** 
 
 Jesteś osobą samowystarczalną nie posiadającą silnej potrzeby, aby inni ludzie lubili Cię bądź podziwiali. Częściej akceptujesz samego siebie niż poddajesz niesłusznej samokrytyce. Masz bardzo dużo niewykorzystanej energii, którą potrafisz mądrze wykorzystać. Mimo, że możesz czuć, iż masz pewne słabe strony, twoja osobowość jest bardzo silna.
