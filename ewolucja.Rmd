@@ -1,0 +1,41 @@
+---
+title: "Ewolucja o co z nią chodzi? Mała powtóreczka z psych ewolucyjnej, zanim się w to wgłębie"
+author: "Agata Zywert"
+date: "26 kwietnia 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+`muszę to zapisać, bo inaczej nigdy tego nie zapamiętam`
+### "Jakie laski wolą faceci, podejście oczywiste"
+
+* Przede wszystkim chodzi o to, że faceci muszą się łączyć z takimi laskami, dzięki którym mogą mieć sukces reprodukcyjny.
+Co za tym idzie muszą to być typiary, które dadzą im potomstwo, ale najlepiej żeby było ich więcej, bo im więcej kobiet do rodzenia, tym więcej potomstwa.
+* Ogólnie stąd też jest to (podobno) dlaczego chłopcy wolą młodsze laski (jak sami są starsi), bo młodsza = większe prawdopodobieństwo sukcesu reprodukcyjnego
+* Stosunek talii do bioder XD
+
+`To wszystko jest obvious as fuck`
+`Co więcej na ten temat mów David Buss`
+
+#### "Męskie strategie doboru **STAŁEJ** partnerki"
+
+* Ten Pan pisze, że faceci są zainteresowani stałym związkiem, bo inaczej nie zaliczą XD W sensie, że bez oznak zaangażowania ze strony mężczyzn, kobiety się z nim nie prześpią i jak nie będzie zainteresowany stałym związkiem to może być odrzucony przez wszystkie kobiety.
+* Do tego - "inną korzyścią czerpaną przez mężczyzn z małżeńswtwa jest możliwość zdobycia lepszej partnerki" `o jak kisne XD`, zajęci faceci (czyli ze potrafią chronić rodzinę) przyciagają atrakcyjne kobiety `z tego kisne jeszcze bardziej`
+* 3 korzyścią jest to, że jest większa pewność, że jest się ojcem swojego dziecka
+
+        + tak naprawdę mi to zwisa, bo w tym badaniu nie chodzi o stały związek _ale co ja tam wiem_
+
+* Potem pisze to samo co napisałam u góry, młode, ładne, krągłe
+* No i następuję coś ciekawszego -> Wpływ kontekstu na wybór partnerki przez mężczyzne - czyli, że jedni mają wybór a drudzy nie, no i Ci bez pozycji i zasobów (_można np. sb zawnioskować, że mają niższą samoocenę i np. ktos to udowodnil_) - częściej godzą się na partnerkę "mniej idealną"
+* "Osoby podkreślające swą atrakcyjność fizyczną dostawały więcej odpowiedzi niezależnie od płci, to jednak znacznie więcej takich odpowiedzi otrzymywały kobiety. Co interesujące, kobiety wspominające w ogłoszeniach o swej atrakcyjności seksualnej otrzymywały _znacznie_ więcej listów niż te, które pomijały ten aspekt. W wypadku mężczyzn było odwrotnie(...) kobiety odbierały reklamowanie przez mężczyzn własnej seksualności jako sygnał, że zależy im na przelotnych znajomościach, nie na stałym związku"
+
+#### PRZELOTNE KONTAKTY SEKSUALNE
+
+##### **Męskie korzyści adaptacyjne z kontaktów przelotnych**
+
+* u mężczyzn w drodze ewolucji ukształtowało się silniejsze pragnienie takich kontaktów, bo laski są obciążone tym, że będą musiały 9 miechów tachać dziecię a potem jeszcze je mieć, a faceci nie mają żadnego obciążenia
+* Mężczyzna odnosi z seksu przelotnego bezpośrednie korzyści reprodukcyjne: zwiększał liczbę spłodzonego potomwstwa
+* W przeszłości sukces reprodukcyjny faceta rósł wraz z ilością partnerek a nie ilością dzieci z jedną i tą samą (Betzig i Dawkins 1986)
