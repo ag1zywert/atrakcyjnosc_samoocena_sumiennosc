@@ -16,7 +16,7 @@ Badany siada przy komputerze. `nie moim bo go nie mam hehe.` Siada u siebie w do
 1. Test osobowości epikułer Eysencka
 2. Test na bycie człowiekiem depresją Beka `hehehehe BEKA`
 3. Skalę samooceny Rosenberga
-4. I jakiś nie isniejące testy
+4. I jakiś nieisniejące testy
 
 No i jak je dostanie to je sb wypełnia.
 Następnie dostaję feedback. W zależności od warunku jest on neutralny bądź pozytywny (mający na celu spowodowanie chwilowego wzrostu samooceny)
