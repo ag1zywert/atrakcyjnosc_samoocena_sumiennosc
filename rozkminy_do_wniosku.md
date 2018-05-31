@@ -38,8 +38,13 @@ CZY FACECI LECĄ NA ŁATWE LASKI?
 
 **5. BADANI**
 
-x chłopów - sami chłopi tylko nwm czy młodzi czy już nieważne, stan zdrowia mnie nie obchodzi, może dać jakieś kryterium żeby nie mieli jakiejś depresji bo jak im zaniżę samoocenę to się zabiją czy coś, idk. 
+120 chłopów - sami chłopi tylko nwm czy młodzi czy już nieważne, stan zdrowia mnie nie obchodzi, może dać jakieś kryterium żeby nie mieli jakiejś depresji bo jak im zaniżę samoocenę to się zabiją czy coś, idk. 
 
 **6. Planowany czas trwania badania** 3 tysiące lat świetlnych
+
+**7. PLAN** to jest 2x2 
+jedną zmienną którą manipuluje jest samoocena
+a drugą to czy laska jest łatwa czy nie
+zmienna zależna to ocena którą jej daja
 
 DOBRA NIE WIEM PODDAJĘ SIĘ IDĘ NA JAKIEŚ NORMALNE STUDIA JPRDL
